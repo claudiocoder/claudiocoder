@@ -3,14 +3,14 @@
 I'm Claudio
 I'm Software developer at Globant and I'm from Mexico City.
 
-- 🔭 I’m currently working on FrontEnd developer with Ract and Angular
+- 🔭 I’m currently working on FrontEnd developer with React and Angular
 - 🌱 I’m currently learning Python and Rust
 - 💬 Ask me about Flutter and Web Development
-- 💻 Sofware Developer Streamer
+- 💻 Software Developer Streamer
 
 ## Tech Stack
 
-<div style="display:flex;gap: 50px">
+<div style="display:flex">
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="react" width="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/flutter.svg" alt="react" width="40"/>
