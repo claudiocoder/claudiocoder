@@ -6,4 +6,4 @@
 
 ## Tech Stack
 
-![React](https://cdn.worldvectorlogo.com/logos/react-2.svg =50x50)
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50"/>
