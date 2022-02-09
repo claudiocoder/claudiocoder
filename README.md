@@ -6,4 +6,4 @@
 
 ## Tech Stack
 
-![React](![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "React"))
+[![React](https://cdn.worldvectorlogo.com/logos/react-2.svg)]
