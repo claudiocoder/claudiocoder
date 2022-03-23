@@ -1,6 +1,6 @@
 ### Hi there
 
-I'm Claudio
+This is Claudio
 I'm Software developer at Globant and I'm from Mexico City.
 
 - 🔭 I’m currently working on FrontEnd developer with React and Angular
