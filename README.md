@@ -4,7 +4,7 @@ This is Claudio
 I'm Software developer at Globant and I'm from Mexico City.
 
 - 🔭 I’m currently working on FrontEnd developer with React and Angular
-- 🌱 I’m currently learning Python and Rust
+- 🌱 I’m currently learning Python
 - 💬 Ask me about Flutter and Web Development
 - 💻 Software Developer Streamer
 
