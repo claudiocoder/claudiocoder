@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Claudio</h1>
-<h3 align="center">A passionate Frontend & Flutter Developer from Mexico</h3><br>
+<h1 align="left">Hi 👋, I'm Claudio</h1>
+<h3 align="left">A passionate Frontend & Flutter Developer from Mexico</h3><br>
 
 <a href="https://www.twitch.tv/claudio_coder" target="blank">![image](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 <a href="https://https://twitter.com/claudio_coder" target="blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
