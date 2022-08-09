@@ -47,7 +47,3 @@
 ## Live Coding </>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o0z6egw0rs3xwieuzl4za9vyb&cover_image=true&theme=novatorem&bar_color=ff0400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/claudiocoder"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="claudiocoder" /></a></p><br><br>
-
