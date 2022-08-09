@@ -39,7 +39,8 @@
  
 <a href="https://github.com/claudiocoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=claudiocoder&show_icons=true&layout=compact&theme=outrun&hide=issues" />
-</a>
+</a><br><br>
+
 <a href="https://github.com/claudiocoder">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocoder&layout=compact&theme=outrun" />
 </a>
