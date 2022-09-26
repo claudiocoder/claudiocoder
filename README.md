@@ -45,6 +45,3 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudiocoder&layout=compact&theme=outrun" />
 </a>
 
-## Live Coding </>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o0z6egw0rs3xwieuzl4za9vyb&cover_image=true&theme=novatorem&bar_color=ff0400&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
