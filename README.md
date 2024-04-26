@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: **@claudio_coder**
 
-- ⚡ **Software Developer Streamer**
+- ⚡ **Software Developer & Coding Live Streamer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
