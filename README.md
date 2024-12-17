@@ -38,10 +38,10 @@
 <br>  
  
 <a href="https://github.com/claudiocoder">
-  <img align="center" src="https://github-readme-stats-claudiocoder.vercel.app/api?username=claudiocoder&show_icons=true&layout=compact&theme=outrun&hide=issues" />
+  <img align="center" src="https://github-readme-stats-six-delta-67.vercel.app/api?username=claudiocoder&show_icons=true&layout=compact&theme=outrun&hide=issues" />
 </a><br><br>
 
 <a href="https://github.com/claudiocoder">
-  <img align="center" src="https://github-readme-stats-claudiocoder.vercel.app/api/top-langs/?username=claudiocoder&layout=compact&theme=outrun" />
+  <img align="center" src="https://github-readme-stats-six-delta-67.vercel.app/api/top-langs/?username=claudiocoder&layout=compact&theme=outrun" />
 </a>
 
