@@ -6,7 +6,7 @@
 ![image](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Go and AI**
 
 - 💬 Ask me about: **React, Angular, Flutter**
 
