@@ -1,12 +1,12 @@
 <h1 align="left">Hi 👋, I'm Claudio</h1>
-<h3 align="left">A passionate Frontend & Flutter Developer from Mexico</h3><br>
+<h3 align="left">A passionate FullStack Web Developer from Mexico</h3><br>
 
 <a href="https://www.twitch.tv/claudio_coder" target="blank">![image](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)</a>
 <a href="https://twitter.com/claudio_coder" target="blank">![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)</a>
 ![image](https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-- 🌱 I’m currently learning **Go and AI**
+- 🌱 I’m currently learning **Game Development, Go and AI**
 
 - 💬 Ask me about: **React, Angular, Flutter**
 
