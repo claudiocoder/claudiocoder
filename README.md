@@ -20,7 +20,7 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,angular,nestjs,flutter,godot)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,angular,nestjs,docker,flutter,godot)](https://skillicons.dev)
   
 <br>  
  
